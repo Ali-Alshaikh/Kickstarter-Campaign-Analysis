@@ -49,8 +49,8 @@ Identifies most impactful features using Random Forest importance scores
 
 2. Run the `final_functions.ipynb` Jupyter notebook from start to end - `make sure to do this`
 
-3. Run the Graphical user interface notebook -> `UI_ML.ipynb`
-   3.1 make sure to press the `save changes` button the GUI FORM - THE GREEN BUTTON
+3. Run the Graphical user interface notebook -> `UI_ML.ipynb`:
+     1. make sure to press the `save changes` button the GUI FORM - THE GREEN BUTTON
 
    <img width="1426" alt="image" src="https://github.com/user-attachments/assets/f11056b7-b827-493b-9f19-db263b7b56b2" />
 
