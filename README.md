@@ -26,10 +26,8 @@ the following description is based on the `final_functions.ipynb` located in the
 2. Interquartile Range (IQR) method for outlier removal
 
 3. Train/Test Split:
-
-3.1 95% training, 5% testing split
-
-3.2 20% validation split from training data
+   1. 95% training, 5% testing split
+   2. 20% validation split from training data
 
 ### Model Training:
 
