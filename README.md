@@ -5,6 +5,15 @@
 This repository contains a machine learning pipeline for analyzing Kickstarter campaign data. The notebook in this repository performs data preprocessing, feature engineering, and model training using Random Forest and Gradient Boosted Trees. The goal is to predict the amount of money pledged for a campaign based on various features.
 
 
+# Sample Output
+
+<img width="721" alt="form and prediction" src="https://github.com/user-attachments/assets/5b90063d-89e9-41a2-94d5-5f23f17d3ca8" />
+
+
+
+
+
+
 the following description is based on the `final_functions.ipynb` located in the `Machine Learning Learner` file: 
 
 ## Features
@@ -57,9 +66,9 @@ Identifies most impactful features using Random Forest importance scores
 
 # Model Performance
 
-The notebook implements a wieghted predicted based on a combination of 2 models (random forest and gradient boosted trees) to predict Kickstarter campaign success. The model performance is evaluated using RMSE:
+The notebook implements a **weighted prediction** based on a combination of two models (Random Forest and Gradient Boosted Trees) to predict Kickstarter campaign success. The model’s performance is evaluated using RMSE:
 
-Evaluation metric: `RMSE` calculated for training and validation data
+**Evaluation Metric:** RMSE calculated for training and validation data.
 
 # Future Improvements
 
@@ -68,6 +77,10 @@ Evaluation metric: `RMSE` calculated for training and validation data
 - Tune hyperparameters further for improved accuracy
 
 - Apply cross-validation for more robust evaluation
+
+- use new update data 2025, the data is from 2009-2012
+  
+- Make a deep learning neural network 
 
 - Deploy as an API for real-time predictions
 
@@ -79,3 +92,5 @@ Evaluation metric: `RMSE` calculated for training and validation data
 
 For any inquiries or contributions, feel free to reach out via GitHub issues or discussions!
 
+
+# Happy Ramadan 🌙
