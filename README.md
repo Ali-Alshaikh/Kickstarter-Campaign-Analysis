@@ -47,7 +47,7 @@ Identifies most impactful features using Random Forest importance scores
 
 1. Clone the repository
 
-2. Run the `final_functions.ipynb` Jupyter notebook from start to end
+2. Run the `final_functions.ipynb` Jupyter notebook from start to end - `make sure to do this`
 
 3. Run the Graphical user interface notebook -> `UI_ML.ipynb`
    3.1 make sure to press the `save changes` button the GUI FORM - THE GREEN BUTTON
